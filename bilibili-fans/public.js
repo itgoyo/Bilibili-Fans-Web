@@ -222,6 +222,8 @@ let Utility = {
         s.parentNode.insertBefore(hm, s);
     },
 
+   
+
     // 弹幕设置
     formatBarrage: function () {
         let texts = [
@@ -250,3 +252,5 @@ let Utility = {
     }
 }
 Utility.init();
+
+    
