@@ -1,3 +1,6 @@
+参考原项目地址：https://github.com/anbang/bilibili-fans
+原项目服务地址：https://github.com/anbang/api
+
 # bilibili-api
 
 
@@ -31,3 +34,6 @@ $ npm stop
 
 
 [egg]: https://eggjs.org
+
+### 显示效果
+![](https://gitee.com/itgoyo/PicGoRes/raw/master/img/20200708084232.png)
